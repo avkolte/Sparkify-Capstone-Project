@@ -38,3 +38,7 @@ score. So I'll choose `LinearSVC` and `LogisticRegression` to tuning, and the re
 Considering this is only a quit mini dataset and our purpose is scaling this up to the total 12G  dataset, so, the logistic regression is the best model from now on in this project.
 
 Please check my blog post to get more details, here is the [link](https://medium.com/@anupkolte92/sparkify-data-churn-analysis-using-pyspark-2db9cd713790).
+
+## Result Screenshots :
+
+![12](https://github.com/avkolte/Sparkify-Capstone-Project/blob/master/images/12.png)
