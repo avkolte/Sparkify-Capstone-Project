@@ -42,3 +42,4 @@ Please check my blog post to get more details, here is the [link](https://medium
 ## Result Screenshots :
 
 ![12](https://github.com/avkolte/Sparkify-Capstone-Project/blob/master/images/12.png)
+![15](https://github.com/avkolte/Sparkify-Capstone-Project/blob/master/images/15.png)
