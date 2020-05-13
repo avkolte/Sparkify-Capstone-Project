@@ -1,13 +1,6 @@
 ## Overview
 **Sparkify** is a digital music service. Many of the users stream their favorite songs in Sparkify service everyday, either using free tier that places advertisements in between the songs, or using the premium subscription model where they stream music as free, but pay a monthly flat rate. User can upgrade, downgrade or cancel their service at anytime.  
 
-This is a `Customer Churn Prediction Problem` , there are so many similar projects, such as [WSDM - KKBox's Churn Prediction Challenge](https://www.kaggle.com/c/kkbox-churn-prediction-challenge) competition from [Kaggle](https://www.kaggle.com), and a few helpful links are follows:
-
-- [Customer Churn Prediction using Machine Learning (How To)](https://addepto.com/machine-learning-predict-reduce-customer-churn/)
-- [Prediction of Customer Churn with Machine Learning](https://www.datasciencecentral.com/profiles/blogs/prediction-of-customer-churn-with-machine-learning)
-- [Customer Churn Prediction and Prevention](https://www.optimove.com/resources/learning-center/customer-churn-prediction-and-prevention)
-- [Hands-on: Predict Customer Churn](https://towardsdatascience.com/hands-on-predict-customer-churn-5c2a42806266)
-
 So, our job is deep mining the customers' data and implement appropriate model to predict customer churn as follow steps:
 
 - Clean data: fill the nan values , correct the data types, drop the outliers.
